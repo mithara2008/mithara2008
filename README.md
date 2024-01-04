@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nisadi Mithara</h1>
-<h3 align="center">"Aspiring Software Developer| Code Enthusiast | Continuous Learner 🚀 | Sri Lanka</h3>
+<h3 align="center">"Aspiring Software Developer| Code Enthusiast | Continuous Learner 🚀 | Sri Lanka 🇱🇰</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mithara2008&label=Profile%20views&color=0e75b6&style=flat" alt="mithara2008" /> </p>
 

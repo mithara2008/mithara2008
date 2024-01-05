@@ -1,6 +1,5 @@
 ![Blue Tosca Geometric Technology Linkedln Banner](https://github.com/mithara2008/mithara2008/assets/127333277/835a2628-6c9b-45b7-bae1-44e67a49f61b)
 
-
 <h1 align="center">Hi 👋, I'm Nisadi Mithara</h1>
 <h3 align="center">"Aspiring Software Developer| Code Enthusiast | Continuous Learner 🚀 | Sri Lanka 🇱🇰</h3>
 
@@ -14,7 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/nisadi mithara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nisadi mithara" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/nisadi-mithara-66b987279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nisadi-mithara-66b987279" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/nisadi.mithara.1?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/nisadi.mithara.1?mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/allabout.mithara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="allabout.mithara" height="30" width="40" /></a>
 </p>
 
@@ -24,6 +24,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mithara2008&show_icons=true&locale=en&layout=compact" alt="mithara2008" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mithara2008&" alt="mithara2008" /></p>
-
-
-
